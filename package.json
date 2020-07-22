@@ -1,0 +1,22 @@
+{
+  "name": "tetris_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisnow/Tetris_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisnow/Tetris_game/issues"
+  },
+  "homepage": "https:crisnow.github.io/Tetris_game",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
